@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<head><title>Home Page</title><head>
+<body><h1>Yop yop tout l'monde!</h1></body>
+</html>
